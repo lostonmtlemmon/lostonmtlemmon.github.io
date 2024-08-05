@@ -109,7 +109,9 @@ body {
             "item7"
             "item8"
             "item9"
-            "item10";
+            "item10"
+            "item11"
+            "item12";
 }
 
 .grid-container .item {
@@ -188,6 +190,12 @@ body {
 .item10 {
   grid-area: item10;
 }
+.item11 {
+  grid-area: item11;
+}
+.item12 {
+  grid-area: item12;
+}
 
 /* Animations */
 
@@ -237,7 +245,8 @@ body {
               "item7 item7"
               "item7 item7"
               "item8 item9"
-              "item10 item10";
+              "item10 item10"
+              "item11 item12";
   }
 
   .grid-container .item5 {
