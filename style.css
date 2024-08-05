@@ -22,7 +22,10 @@ body {
 }
 
 /* Mobile-first */
-
+h1.textstyle {
+  font-family: 'Raleway', sans-serif;
+  text-align:center;
+}
 /* Menu */
 
 .navbar .menu {
