@@ -28,11 +28,11 @@ body {
 .navbar .menu {
   font-family: 'Raleway', sans-serif;
   display: grid;
-  grid-gap: 10px;
+  grid-gap: 30px;
   grid-template-areas:
               "logo-text menu-icon"
               "nav-menu nav-menu";
-  margin-bottom: 2.5rem;
+  margin-bottom: 5rem;
 }
 
 .logo-text h1 {
